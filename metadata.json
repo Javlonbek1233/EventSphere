@@ -1,0 +1,6 @@
+{
+  "name": "EventSphere",
+  "description": "A luxury modern event discovery and VIP booking platform featuring concerts, festivals, interactive seat maps, and AI-tailored recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
